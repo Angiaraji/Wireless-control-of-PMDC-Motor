@@ -9,8 +9,8 @@ driven individually with PI controller and Fuzzy logic controller by the
 selection of buttons on the microcontroller. The performance of the motor
 with PI controller and Fuzzy controller are observed and compared. 
 
-This project has been presented in the National Level Conference and the
-paper is published in the International Journal of Applied Engineering Research (IJAER).
+This project has been presented in the National Level Conference on Emerging Techniques in Electrical Engineering
+and the paper is published in the International Journal of Applied Engineering Research (IJAER).
 ISSN 0973-4562 Vol. 10 No.66 (2015), pp.206-214
 
 https://www.ripublication.com/Volume/ijaerv10n66spl.htm
